@@ -1,0 +1,62 @@
+.bg-custom {
+    background-color: #eadcff;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+.carousel {
+    background-color: white;
+}
+
+.carousel-img {
+    height: 400px;
+    object-fit: contain;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 50%;
+    padding: 25px;
+}
+
+.produto-img {
+    height: 250px;
+    width: 100%;
+    object-fit: contain;
+    background-color: #fff;
+    padding: 10px;
+}
+
+.card-text {
+    min-height: 72px;
+}
+
+#resultadoAgendamento {
+    white-space: pre-line;
+}
+
+#diferenciais ul {
+    padding-left: 20px;
+}
+
+#diferenciais li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
